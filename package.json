@@ -1,0 +1,22 @@
+{
+  "name": "tradingbot",
+  "version": "1.0.0",
+  "description": "Bot to generate profit from Gemini Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohaiminulEraj/TradingBot-JS.git"
+  },
+  "author": "Mohaiminul Eraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohaiminulEraj/TradingBot-JS/issues"
+  },
+  "homepage": "https://github.com/MohaiminulEraj/TradingBot-JS#readme",
+  "dependencies": {
+    "gemini-api": "^2.0.4"
+  }
+}
