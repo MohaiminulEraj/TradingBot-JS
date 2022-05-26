@@ -12,4 +12,4 @@ restClient.newOrder({
     price: 10,
     side: 'buy',
     symbol: "ethusd",
-}).then(res => console.log(res));
+}).then(res => console.log(res)).catch(e => console.log(e));
