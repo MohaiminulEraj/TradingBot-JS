@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MohaiminulEraj/TradingBot-JS#readme",
   "dependencies": {
+    "cryptocompare": "^1.0.0",
     "dotenv": "^16.0.1",
     "gemini-api": "^2.0.4"
   }
